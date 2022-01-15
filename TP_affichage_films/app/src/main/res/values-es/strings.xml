@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Affichage films</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_popular">Peliculas populares</string>
+    <string name="title_upcoming">Próximas películas</string>
+    <string name="title_search">Buscar película</string>
+    <string name="short_title_popular">Popular</string>
+    <string name="short_title_upcoming">Próxima</string>
+    <string name="short_title_search">Buscar</string>
+    <string name="label_release_date">Fecha de lanzamiento :</string>
+    <string name="label_genres">Géneros :</string>
+    <string name="button_search">Buscar</string>
+    <string name="label_movies_found">películas encontradas</string>
+    <string name="label_movie_found">película encontrada</string>
+    <string name="label_no_movies_found">No se encontraron películas</string>
+    <string name="label_hint_search_movie">Buscar una película</string>
+    <string name="short_title_settings">Configuraciones</string>
+    <string name="title_settings">Configuraciones</string>
+    <string name="label_settings_language">Cambiar el idioma</string>
+    <string name="bouton_settings_valider">Aplicar</string>
+    <string name="short_title_favorites">Favoritas</string>
+    <string name="title_favorites">Películas favoritas</string>
+</resources>
